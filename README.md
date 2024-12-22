@@ -11,5 +11,3 @@ Features:
 5. Cross-platform compatibility
 
 Note : This tool was tested on MacOS and Ubuntu, and probably won't work on Windows
-
-Read command.txt to know how to use
