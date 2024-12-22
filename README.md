@@ -8,5 +8,6 @@ Features:
 3. Simple and intuitive user interface
 4. Supports batch downloading for multiple URLs
 5. Cross-platform compatibility
+
 Note : This tool was tested on MacOS and Ubuntu, and probably won't work on Windows
 Read command.txt to know how to use
