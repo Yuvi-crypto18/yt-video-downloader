@@ -1,0 +1,1 @@
+This tool was tested on MacOS and Ubuntu, and probably won't work on Windows
