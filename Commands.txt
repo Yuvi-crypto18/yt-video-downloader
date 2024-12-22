@@ -1,0 +1,15 @@
+Download as MP4 video :
+
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" mp4
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" video
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -o "/Users/yuvraj/Downloads"
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" mp4 -o "/Users/yuvraj/Downloads"
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" video -o "/Users/yuvraj/Downloads"
+
+Download as MP3 audio :
+
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" mp3
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" audio
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" mp3 -o "/Users/yuvraj/Downloads"
+youtube-download-cli "https://www.youtube.com/watch?v=dQw4w9WgXcQ" audio -o "/Users/yuvraj/Downloads"
